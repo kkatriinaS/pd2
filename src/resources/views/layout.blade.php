@@ -44,6 +44,7 @@
                 </div>
             </div>
         </footer>
+        <script src="./js/admin.js"></script>
 
     </body>
 
